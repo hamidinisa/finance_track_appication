@@ -1,0 +1,10 @@
+C:\Users\90532\source\repos\finance_track_appication\finance_track_appication\obj\Debug\finance_track_appication.csproj.AssemblyReference.cache
+C:\Users\90532\source\repos\finance_track_appication\finance_track_appication\obj\Debug\finance_track_application.Form1.resources
+C:\Users\90532\source\repos\finance_track_appication\finance_track_appication\obj\Debug\finance_track_appication.Properties.Resources.resources
+C:\Users\90532\source\repos\finance_track_appication\finance_track_appication\obj\Debug\finance_track_appication.csproj.GenerateResource.cache
+C:\Users\90532\source\repos\finance_track_appication\finance_track_appication\obj\Debug\finance_track_appication.csproj.CoreCompileInputs.cache
+C:\Users\90532\source\repos\finance_track_appication\finance_track_appication\bin\Debug\finance_track_appication.exe.config
+C:\Users\90532\source\repos\finance_track_appication\finance_track_appication\bin\Debug\finance_track_appication.exe
+C:\Users\90532\source\repos\finance_track_appication\finance_track_appication\bin\Debug\finance_track_appication.pdb
+C:\Users\90532\source\repos\finance_track_appication\finance_track_appication\obj\Debug\finance_track_appication.exe
+C:\Users\90532\source\repos\finance_track_appication\finance_track_appication\obj\Debug\finance_track_appication.pdb
